@@ -7,6 +7,11 @@ start: 2022-12-14
 end: 2022-12-18
 published: 2023-03-06
 conference_number: '6'
+sections:
+- name: Oral
+  title: Oral
+- name: Poster
+  title: Poster
 layout: proceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
