@@ -1,0 +1,85 @@
+---
+booktitle: Proceedings of The 6th Conference on Robot Learning
+shortname: CoRL
+volume: '205'
+year: '2022'
+start: 2022-12-14
+end: 2022-12-18
+published: 2023-03-06
+conference_number: '6'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CoRL-2022
+month: 0
+cycles: false
+bibtex_editor: Liu, Karen and Kulic, Dana and Ichnowski, Jeff
+editor:
+- given: Karen
+  family: Liu
+- given: Dana
+  family: Kulic
+- given: Jeff
+  family: Ichnowski
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 6th Conference on Robot Learning
+    Held in Auckland, New Zealand on 14-18 December 2022
+
+  Published as Volume 205 by the Proceedings of Machine Learning Research on 06 March 2023.
+
+  Volume Edited by:
+    Karen Liu
+    Dana Kulic
+    Jeff Ichnowski
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 14--18 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v205"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v205
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v205
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: https://www.robot-learning.org/
+  location: Auckland, New Zealand
+  dates:
+  - 2022-12-14
+  - 2022-12-15
+  - 2022-12-16
+  - 2022-12-17
+  - 2022-12-18
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v205/corl22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v205/corl22.bib
